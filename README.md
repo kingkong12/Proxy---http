@@ -8,10 +8,9 @@ To run the code(Mac/ Linux):
 Download the file proxy.c
 
 Use the following commands: 
-//To Compile the proxy
+//To Compile the proxy 
 gcc -o proxy proxy.c
-
-//To Run the proxy
+//To Run the proxy: 
 ./proxy PORT_NUMBER &
 
 With this you would be able to see the logs in the terminal.
